@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'global.dart'; // ✅ Order history list import karo
+import 'global.dart'; //  Order history list import karo
 
 class UserProfilePage extends StatelessWidget {
   @override
@@ -11,7 +11,7 @@ class UserProfilePage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // ✅ User Details Section
+            //  User Details Section
             Center(
               child: Column(
                 children: [

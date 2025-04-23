@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
-
 import 'ProductDetailedScreen.dart';
 import 'Wishlist.dart';
 

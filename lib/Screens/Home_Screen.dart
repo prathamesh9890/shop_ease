@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:shop_ease/Screens/Cart.dart';
 import 'package:shop_ease/Screens/product_view.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:lottie/lottie.dart';
 
 
 import 'Profile_page.dart';
@@ -171,16 +170,6 @@ class NavigationSidebar extends StatelessWidget {
               );
             },
           ),
-
-
-          // ListTile(
-          //   leading: Icon(Icons.exit_to_app, color: Colors.black),
-          //   title: Text("Logout", style: TextStyle(color: Colors.black)),
-          //   onTap: () {
-          //     // TODO: Add Logout Functionality
-          //     print("Logout Clicked");
-          //   },
-          // ),
         ],
       ),
     );
